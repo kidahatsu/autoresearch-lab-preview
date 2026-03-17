@@ -58,14 +58,14 @@ The **Synthesizer Agent** merges breakthroughs from all branches—combining, fo
 
 ## 🔌 LLM Connectors & Frontier Model Support
 
-The engine is built on a **Model-Agnostic Core**, supporting the latest frontier models for high-reasoning tasks:
+The engine is built on a **Model-Agnostic Core**, optimized for the **March 2026** frontier landscape. We utilize high-reasoning flagship models for architectural design and high-throughput "Flash" models for rapid triage and log distillation.
 
-| Provider | Supported Models |
-| :--- | :--- |
-| **Google Vertex AI** | `gemini-2.0-pro-exp`, `gemini-2.5-flash-ga`, `gemini-1.5-pro` |
-| **OpenAI** | `o3-mini`, `gpt-4o`, `o1-preview` |
-| **Anthropic** | `claude-3.7-sonnet`, `claude-3.5-opus` |
-| **DeepSeek** | `deepseek-v3`, `deepseek-r1` |
+| Provider | Frontier Reasoning (Architects) | High-Throughput (Agents/Triage) |
+| :--- | :--- | :--- |
+| **Google Vertex AI** | `gemini-3.1-pro`, `gemini-3.0-ultra` | `gemini-3.1-flash-lite`, `gemini-2.5-flash` |
+| **OpenAI** | `gpt-5.4-thinking`, `o3-high-reasoning` | `gpt-5.4-mini`, `gpt-4o-agentic` |
+| **Anthropic** | `claude-4.6-opus`, `claude-4-research` | `claude-4.6-sonnet`, `claude-3.7-sonnet` |
+| **DeepSeek** | `deepseek-v4-r1`, `deepseek-v4` | `deepseek-v4-lite`, `deepseek-v3` |
 
 ---
 
