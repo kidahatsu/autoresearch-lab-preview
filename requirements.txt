@@ -1,0 +1,17 @@
+# AutoResearch Lab Dependencies
+# Core MAS Engine
+google-cloud-aiplatform>=1.70.0
+litellm>=1.50.0
+pydantic>=2.0.0
+langgraph>=0.1.0
+
+# Scientific & ML stack
+torch>=2.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+
+# Static Analysis & Verification
+astroid>=3.0.0
+fake-tensor>=0.1.0
